@@ -19,7 +19,7 @@ free code camp.
 **Link(s) to work**
 1. [Sketches](f2689bc0d44a28aff11a565f4df9977cd38f6444)
 
-### Day 2: April 7, Saturday
+### Day 3: April 7, Saturday
 
 **Today's Progress**: Made some changes to the file structure of the project. Started coding the header for portfolio site
 
@@ -29,7 +29,7 @@ free code camp.
 1. [Header](f6945b01b32c3ab8992c74fe9e595cff9538986b)
 2. [File structure changes](478c498b4a8aee42056a990b2264035af6c8ed8c)
 
-### Day 2: April 8, Sunday
+### Day 4: April 8, Sunday
 
 **Today's Progress**: Finished coding the Header and the about section. Started coding the projects secction.
 
