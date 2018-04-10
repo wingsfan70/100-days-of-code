@@ -39,3 +39,12 @@ free code camp.
 1. [About Section](f41966d148e3c5d39d2a7f3139bb82665b964650)
 2. [Responsive](d56170d7bcba9e581a59ff32529ead96da57474b)
 3. [Project Section](59398cd8dbd10861efc2eff6b4074eb0c7c3cad4)
+
+### Day 5: April 9, Monday
+
+**Today's Progress**: Finished coding the project section of portfolio site.
+
+**Thoughts**  Tonight went smoothly. Not any problems tonight
+
+**Link(s) to work**
+1. [Project Section](e0356f481fe61a997ab2d22987fa40c92e023464)
