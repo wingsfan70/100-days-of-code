@@ -48,3 +48,12 @@ free code camp.
 
 **Link(s) to work**
 1. [Project Section](e0356f481fe61a997ab2d22987fa40c92e023464)
+
+### Day 6: April 10, Tuesday
+
+**Today's Progress**: Finished coding the contact section of portfolio site.
+
+**Thoughts**  Tonight went smoothly. Had a minor problem. I forgot to save a file before I commited to git so I had to figure out how to merge 2 commits.
+
+**Link(s) to work**
+1. [Contact Section](4eb3ac4d87031468f6862592f2f8bd65f54724f3)
