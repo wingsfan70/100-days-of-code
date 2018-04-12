@@ -57,3 +57,13 @@ free code camp.
 
 **Link(s) to work**
 1. [Contact Section](4eb3ac4d87031468f6862592f2f8bd65f54724f3)
+
+### Day 7: April 11, Wednesday
+
+**Today's Progress**: Made minor changes to project section and started coding the footer
+
+**Thoughts**  Didnt get as much done as I would have like but still happy with the results
+
+**Link(s) to work**
+1. [Project Section Changes](71b63949ccb462286e90d10344bc604be4f84b0d)
+2. [Footer](4df8ebd9e7828fdb7bfcfe0842449ddce7608be3)
