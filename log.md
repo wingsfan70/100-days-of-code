@@ -78,3 +78,23 @@ free code camp.
 1. [Finished Footer](55900e82d61c8fc88a19140f050c9c271498e551)
 2. [Navigation](da6e8e7016bf4c740cc2c09fdb0b196fbd5371b9)
 
+### Day 9: April 13, Friday
+
+**Today's Progress**: Took the day off of coding today. I had date night with my girlfriend. We had dinner and rented a movie. 
+
+**Thoughts**  When I restarted this challenged I discussed it with my girlfriend that she would unfortunately lose time with me. This is why I try to give her a day a week were i am all hers.
+
+**Link(s) to work**
+None
+
+
+### Day 10: April 14, Saturday
+
+**Today's Progress**: Finished portfolio page
+
+**Thoughts**  
+
+**Link(s) to work**
+1. [Finished Portfolio]()
+
+
