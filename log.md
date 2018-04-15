@@ -90,11 +90,19 @@ None
 
 ### Day 10: April 14, Saturday
 
-**Today's Progress**: Finished portfolio page
+**Today's Progress**: Worked a bit on portfolio site. 
 
-**Thoughts**  
+**Thoughts**  Didn't get much time to work on coding today. Other responsibilites took precendence over coding unfornately.
+
+**Link(s) to work**
+None
+
+### Day 11: April 15, Sunday
+
+**Today's Progress**: Finished coding portfolio site and uploaded to [gary caseman.com](www.garycaseman.com)
+
+**Thoughts**  Very excited that I finally finished the portfolio challenge.
 
 **Link(s) to work**
 1. [Finished Portfolio]()
-
 
