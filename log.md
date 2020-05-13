@@ -1,108 +1,87 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 5, Thursday
+### Day 1: 
 
-**Today's Progress**: Creating my project and respository on gitHub for my portfolio. I will be using pug and sass.
-
-**Thoughts** Today I restarted my commitment to 100 days of code. I will start working on my portfolio website as part of
-free code camp.
+**Today's Progress**: 
+**Thoughts** 
 
 **Link(s) to work**
-1. [gitHub repo for my portfolio](46cce0d57f3f3cbe425675260cf59f9b5b5a5e46)
 
-### Day 2: April 6, Friday
 
-**Today's Progress**: Made some sketches of possible layouts.
+### Day 2: 
 
-**Thoughts** Not much time to code today. Had a dinner date with girlfriend and friends. 
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+
+### Day 3: 
+
+**Today's Progress**: 
+**Thoughts** 
 
 **Link(s) to work**
-1. [Sketches](f2689bc0d44a28aff11a565f4df9977cd38f6444)
 
-### Day 3: April 7, Saturday
 
-**Today's Progress**: Made some changes to the file structure of the project. Started coding the header for portfolio site
+### Day 4: 
 
-**Thoughts** Things are progressing ok. It is just so hard getting the time I want to work on the project. 
-
-**Link(s) to work**
-1. [Header](f6945b01b32c3ab8992c74fe9e595cff9538986b)
-2. [File structure changes](478c498b4a8aee42056a990b2264035af6c8ed8c)
-
-### Day 4: April 8, Sunday
-
-**Today's Progress**: Finished coding the Header and the about section. Started coding the projects secction.
-
-**Thoughts** I am very happy with the progress I made today. I got to spend some quality time on my portfolio website 
+**Today's Progress**: 
+**Thoughts** 
 
 **Link(s) to work**
-1. [About Section](f41966d148e3c5d39d2a7f3139bb82665b964650)
-2. [Responsive](d56170d7bcba9e581a59ff32529ead96da57474b)
-3. [Project Section](59398cd8dbd10861efc2eff6b4074eb0c7c3cad4)
 
-### Day 5: April 9, Monday
+### Day 5: 
 
-**Today's Progress**: Finished coding the project section of portfolio site.
-
-**Thoughts**  Tonight went smoothly. Not any problems tonight
-
-**Link(s) to work**
-1. [Project Section](e0356f481fe61a997ab2d22987fa40c92e023464)
-
-### Day 6: April 10, Tuesday
-
-**Today's Progress**: Finished coding the contact section of portfolio site.
-
-**Thoughts**  Tonight went smoothly. Had a minor problem. I forgot to save a file before I commited to git so I had to figure out how to merge 2 commits.
-
-**Link(s) to work**
-1. [Contact Section](4eb3ac4d87031468f6862592f2f8bd65f54724f3)
-
-### Day 7: April 11, Wednesday
-
-**Today's Progress**: Made minor changes to project section and started coding the footer
-
-**Thoughts**  Didnt get as much done as I would have like but still happy with the results
-
-**Link(s) to work**
-1. [Project Section Changes](71b63949ccb462286e90d10344bc604be4f84b0d)
-2. [Footer](4df8ebd9e7828fdb7bfcfe0842449ddce7608be3)
-
-### Day 8: April 12, Thursday
-
-**Today's Progress**: Finished coding the footer and created a navigation menu
-
+**Today's Progress**: 
 **Thoughts**  
 
 **Link(s) to work**
-1. [Finished Footer](55900e82d61c8fc88a19140f050c9c271498e551)
-2. [Navigation](da6e8e7016bf4c740cc2c09fdb0b196fbd5371b9)
 
-### Day 9: April 13, Friday
 
-**Today's Progress**: Took the day off of coding today. I had date night with my girlfriend. We had dinner and rented a movie. 
+### Day 6: 
 
-**Thoughts**  When I restarted this challenged I discussed it with my girlfriend that she would unfortunately lose time with me. This is why I try to give her a day a week were i am all hers.
+**Today's Progress**: 
+**Thoughts**  T
+
+**Link(s) to work**
+
+
+### Day 7: 
+
+**Today's Progress**: 
+**Thoughts**  
+
+**Link(s) to work**
+
+### Day 8: 
+
+**Today's Progress**: 
+**Thoughts**  
+
+**Link(s) to work**
+
+### Day 9: 
+
+**Today's Progress**: 
+**Thoughts**  
 
 **Link(s) to work**
 None
 
 
-### Day 10: April 14, Saturday
+### Day 10: 
 
-**Today's Progress**: Worked a bit on portfolio site. 
-
-**Thoughts**  Didn't get much time to work on coding today. Other responsibilites took precendence over coding unfornately.
-
-**Link(s) to work**
-None
-
-### Day 11: April 15, Sunday
-
-**Today's Progress**: Finished coding portfolio site and uploaded to [gary caseman.com](www.garycaseman.com)
-
-**Thoughts**  Very excited that I finally finished the portfolio challenge.
+**Today's Progress**: 
+**Thoughts**  
 
 **Link(s) to work**
-1. [Finished Portfolio](dd2c6139075183f4045cdf8dfb5a9122bc1b2030)
+
+
+### Day 11: 
+
+**Today's Progress**: 
+**Thoughts**  
+
+**Link(s) to work**
+
 
